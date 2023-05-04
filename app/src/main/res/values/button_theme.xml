@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Buttons.White" parent="Theme.AppCompat.DayNight">
+        <item name="colorButtonNormal">@color/white</item>
+    </style>
+    <style name="Buttons.Green" parent="Theme.AppCompat.DayNight">
+        <item name="colorButtonNormal">#00ff00ff</item>
+    </style>
+    <style name="Buttons.Red" parent="Theme.AppCompat.DayNight">
+        <item name="colorButtonNormal">#ff0000ff</item>
+    </style>
+</resources>

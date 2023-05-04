@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo Application</string>
+    <string name="edit_todo_title_hint">Edit Title</string>
+    <string name="edit_todo_body_hint">Edit Description</string>
+    <string name="edit_todo_btn_text">Add Todo</string>
+    <string name="add_todo_FAB_desc">floating action button for opening the add todo dialog</string>
+</resources>
